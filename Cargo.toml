@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "inklings",
+    "inklings-cli"
+]
+
+resolver = "2"
